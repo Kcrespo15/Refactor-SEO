@@ -98,7 +98,7 @@ p {
     max-width: 150px;
 }
 
-.articals {
+.articles {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,11 +107,11 @@ p {
     color: #ffffff;
 }
 
-.articals img {
+.articles img {
     max-height: 200px;
 }
 
-.articals h2 {
+.articles h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
